@@ -25,3 +25,8 @@ func MyServiceHandler(ctx context.Context) error {
     return nil
 }
 ```
+
+
+## License
+
+This code is licensed under the MIT license.
